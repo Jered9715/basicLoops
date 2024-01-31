@@ -18,6 +18,10 @@ do
 }
 while (wantsToPlayAgain == true);
 
+
+
+//I was unable to get this to work. Ill be research for loops and trying to comeback to this
+
 /*
 //For loop problem
 wantsToPlayAgain = true;
@@ -45,7 +49,7 @@ userNumber = int.Parse(userEnter);
         userNumber++;
     }
 */
-
+/*
 Console.Write("Enter a number:");
 int userNumber = int.Parse(Console.ReadLine());
 for (int i = userNumber; i == 0 ; i--) 
@@ -53,7 +57,7 @@ for (int i = userNumber; i == 0 ; i--)
     
     Console.WriteLine( i );
 }
-
+*/
 
 
 //while problem
